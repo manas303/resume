@@ -34,8 +34,10 @@ class About extends Component {
 						   <span>{street}<br />
 						         {city} {state}, {zip}
                    </span><br />
+                   <div className="display-none">
 						   <span>{phone}</span><br />
                      <span>{email}</span>
+                     </div>
 					   </p>
                </div>
                <div className="columns download">
