@@ -1,0 +1,11 @@
+@keyframes example {
+    from {opacity:1%;}
+    to {opacity: 100%;}
+  }
+
+  .responsive-headline {
+    opacity: 100%;
+    animation-name: example;
+    animation-duration: 8s;
+    
+  }
