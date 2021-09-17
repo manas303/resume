@@ -101,8 +101,8 @@
     ],
     "certifications": [
       {
-        "company": "AWS Solution Architect Professional",
-        "title": "AWS Solution Architect Professional",
+        "company": "AWS Solutions Architect Professional",
+        "title": "AWS Solutions Architect Professional",
         "years": "Aug 2021 - Aug 2024",
         "description": "https://www.credly.com/badges/c3df05f8-0263-4235-b84f-ab1c9c13d730"
       },
@@ -119,8 +119,8 @@
         "description": "https://www.credly.com/badges/c16243c2-856e-4761-9a5f-adfb32b527a6"
       },
       {
-        "company": "AWS Solution Architect Associate",
-        "title": "AWS Solution Architect Associate",
+        "company": "AWS Solutions Architect Associate",
+        "title": "AWS Solutions Architect Associate",
         "years": "May 2019 - Aug 2024",
         "description": "https://www.credly.com/badges/e3db4ce3-28b9-43f8-ae58-c2d3a866796d"
       }
@@ -159,7 +159,7 @@
         "level": "60%"
       },
       {
-        "name": "Web servers/ API Gateway: Nginx, Apache httpd, Tomcat, Kong",
+        "name": "Web servers: Nginx, Apache httpd, Tomcat, Kong",
         "level": "70%"
       },
       {
