@@ -15,7 +15,7 @@
       "state": "VIC",
       "zip": "XXXX"
     },
-    "website": "http://manassrivastava.com",
+    "website": "https://manassrivastava.com",
     "resumedownload": "https://drive.google.com/file/d/171NRwyA26Z5IqlYlEMVsYlfio_77w1VZ/view?usp=sharing",
     "social": [
       {
@@ -99,6 +99,32 @@
         "description": "Application Server Administrator + Java Developer"
       }
     ],
+    "certifications": [
+      {
+        "company": "AWS Solution Architect Professional",
+        "title": "AWS Solution Architect Professional",
+        "years": "Aug 2021 - Aug 2024",
+        "description": "https://www.credly.com/badges/c3df05f8-0263-4235-b84f-ab1c9c13d730"
+      },
+      {
+        "company": "AWS Developer Associate",
+        "title": "AWS Developer Associate",
+        "years": "Jan 2020 - Jan 2023",
+        "description": "https://www.credly.com/badges/b288361a-20bf-4399-9fde-e1f9745c3488"
+      },
+      {
+        "company": "AWS SysOps Administrator Associate",
+        "title": "AWS SysOps Administrator Associate",
+        "years": "April 2020 - April 2023",
+        "description": "https://www.credly.com/badges/c16243c2-856e-4761-9a5f-adfb32b527a6"
+      },
+      {
+        "company": "AWS Solution Architect Associate",
+        "title": "AWS Solution Architect Associate",
+        "years": "May 2019 - Aug 2024",
+        "description": "https://www.credly.com/badges/e3db4ce3-28b9-43f8-ae58-c2d3a866796d"
+      }
+    ],
     "skills": [
       {
         "name": "Java + JavaEE + Spring Boot ",
@@ -159,8 +185,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "If it wasnt for me then Manas would have cofounded Apple",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Some day somebody would write something for Manas",
+        "user": "Manas Srivastava"
       }
     ]
   }
