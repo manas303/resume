@@ -5,7 +5,7 @@
     "description": "If you have an idea and want it prototyped the day you got it, please call me",
     "image": "profilepic.jpg",
     "title": "Technical Architect/Lead  •  Banking Transformation   •  Coder",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I'm a software architect who is hands on and can build software from sratch and can take it to production ready state.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "manas303@gmail.com",
     "phone": "+614XXXXXXXX",
@@ -16,7 +16,7 @@
       "zip": "XXXX"
     },
     "website": "http://manassrivastava.com",
-    "resumedownload": "https://drive.google.com/file/d/1IVxCWVT7jiPh6BjH0xdYzevGilsGvxBT/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/171NRwyA26Z5IqlYlEMVsYlfio_77w1VZ/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -46,82 +46,118 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Almost all kinds of skills required to build an end to end software.",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "IEC College of Engineering & Technology",
+        "degree": "Bachelor of Technology, Electronics & Communication",
+        "graduated": "June 2007",
+        "description": "Studied electronics in college but now I am a software engineer."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "St. Michaels School",
+        "degree": "XII",
+        "graduated": "March 2002",
+        "description": "Studied everything that made me what I am today."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "National Australia Bank",
+        "title": "Technical Lead (Senior Consultant Engineer) ",
+        "years": "October 2018 - Present",
+        "description": "Working as a technical architect/lead. I handle the technical delivery and am responsible for the quality of microservices/ microfrontends built."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Oracle",
+        "title": "Senior Principal Consultant",
+        "years": "July 2016 - September 2018",
+        "description": "Oracle Banking Platform Lead Engineer + Architect"
+      },
+      {
+        "company": "Oracle",
+        "title": "Principal Consultant",
+        "years": "July 2014 - June 2016",
+        "description": "Oracle Banking Platform Lead Engineer"
+      },
+      {
+        "company": "Oracle",
+        "title": "Senior Consultant",
+        "years": "April 2011 - June 2014",
+        "description": "Oracle Banking Platform Solution Engineer"
+      },
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Asst. Systems Engineer",
+        "years": "May 2010 - Mar 2011",
+        "description": "Java Senior Developer"
+      },
+      {
+        "company": "Oracle",
+        "title": "Associate Consultant",
+        "years": "July 2007 - April 2010",
+        "description": "Application Server Administrator + Java Developer"
       }
     ],
     "skills": [
       {
-        "name": "Git",
+        "name": "Java + JavaEE + Spring Boot ",
+        "level": "80%"
+      },
+      {
+        "name": "React + Javascript",
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Nodejs",
+        "level": "60%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "AWS Cloud",
+        "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Graph QL + Docker + Kakfa",
+        "level": "60%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "Docker",
+        "level": "70%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Oracle Fusion Technologies: Oracle SOA, BPEL, ADF, OSB.",
+        "level": "70%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Application servers: WebLogic, Websphere",
+        "level": "60%"
+      },
+      {
+        "name": "Oracle 11g Database, Oracle PLSQL, IBM DB2, Postgres",
+        "level": "70%"
+      },
+      {
+        "name": "Devops : Jenkins, Go CD, terraform.",
+        "level": "60%"
+      },
+      {
+        "name": "Infrastructure/Shell scripting : Unix, Linux(RHEL, Centos)",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Website",
-        "category": "A React based  website",
-        "image": "florida-wallpaper-11.jpg",
-        "url": "http://www.manassrivastava.com"
+        "title": "A checklist application built using react and nodejs",
+        "category": "Shopping checklist",
+        "image": "checklist.png",
+        "url": "https://manassrivastava.com"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "Someday I will write something for Manas!",
-        "user": "Akhilesh Kataria"
-      },
       {
         "text": "If it wasnt for me then Manas would have cofounded Apple",
         "user": "Steve Wozniak... impersonator"
