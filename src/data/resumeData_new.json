@@ -2,11 +2,11 @@
   "main": {
     "name": "Manas Srivastava",
     "occupation": "Software Architect",
-    "description": "If you have an idea and want it prototyped the day you got it, please call me",
+    "description": "If you have an idea and want it prototyped the day you got it, please get in touch",
     "image": "profilepic.jpg",
     "title": "Technical Architect/Lead  •  Banking Transformation   •  Coder",
     "bio": "I'm a software architect who is hands on and can build software from sratch and can take it to production ready state.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Hello! Please send me a message.",
     "email": "manas303@gmail.com",
     "phone": "+614XXXXXXXX",
     "address": {
@@ -49,13 +49,13 @@
     "skillmessage": "Almost all kinds of skills required to build an end to end software.",
     "education": [
       {
-        "school": "IEC College of Engineering & Technology",
+        "school": "IEC College of Engineering & Technology, Greater Noida, India",
         "degree": "Bachelor of Technology, Electronics & Communication",
         "graduated": "June 2007",
         "description": "Studied electronics in college but now I am a software engineer."
       },
       {
-        "school": "St. Michaels School",
+        "school": "St. Michael's School, Mankapur, India",
         "degree": "XII",
         "graduated": "March 2002",
         "description": "Studied everything that made me what I am today."
@@ -64,7 +64,7 @@
     "work": [
       {
         "company": "National Australia Bank",
-        "title": "Technical Lead (Senior Consultant Engineer) ",
+        "title": "Technical Lead (Senior Consultant Engineer)",
         "years": "October 2018 - Present",
         "description": "Working as a technical architect/lead. I handle the technical delivery and am responsible for the quality of microservices/ microfrontends built."
       },
@@ -139,11 +139,11 @@
         "level": "60%"
       },
       {
-        "name": "AWS Cloud",
+        "name": "AWS, Azure",
         "level": "70%"
       },
       {
-        "name": "Graph QL + Docker + Kakfa",
+        "name": "Graph QL + Kakfa + MQ + Multithreading",
         "level": "60%"
       },
       {
@@ -157,6 +157,10 @@
       {
         "name": "Application servers: WebLogic, Websphere",
         "level": "60%"
+      },
+      {
+        "name": "Web servers/ API Gateway: Nginx, Apache httpd, Tomcat, Kong",
+        "level": "70%"
       },
       {
         "name": "Oracle 11g Database, Oracle PLSQL, IBM DB2, Postgres",
@@ -175,7 +179,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "A checklist application built using react and nodejs",
+        "title": "A checklist application built using react and nodejs hosted in AWS",
         "category": "Shopping checklist",
         "image": "checklist.png",
         "url": "https://manassrivastava.com"
