@@ -4,7 +4,7 @@
     "occupation": "Software Architect",
     "description": "If you have an idea and want it prototyped the day you got it, please get in touch",
     "image": "profilepic.jpg",
-    "title": "Technical Architect/Lead  •  Banking Transformation   •  Coder",
+    "title": "Technical Architect/Engineering Manager  •  Banking Transformation   •  Coder",
     "bio": "I'm a software architect who is hands on and can build software from sratch and can take it to production ready state.",
     "contactmessage": "Hello! Please send me a message.",
     "email": "manas303@gmail.com",
@@ -64,8 +64,14 @@
     "work": [
       {
         "company": "National Australia Bank",
+        "title": "Engineering Manager",
+        "years": "October 2021 - Present",
+        "description": "Working as a technical architect/lead. I handle the technical delivery and am responsible for the quality of microservices/ microfrontends built."
+      },
+      {
+        "company": "National Australia Bank",
         "title": "Technical Lead (Senior Consultant Engineer)",
-        "years": "October 2018 - Present",
+        "years": "October 2018 - Sep 2021",
         "description": "Working as a technical architect/lead. I handle the technical delivery and am responsible for the quality of microservices/ microfrontends built."
       },
       {

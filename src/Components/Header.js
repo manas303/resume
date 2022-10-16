@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import styles from './css/Header.module.css'
 
 class Header extends Component {
   render() {
@@ -15,7 +16,7 @@ class Header extends Component {
     }
 
     return (
-      <header id="home">
+      <header className={styles.headers} id="home">
 
       <nav id="nav-wrap">
 
@@ -36,7 +37,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h2 className="responsive-headline">{name}</h2>
-            <p>{title}</p>
+            <p className={styles.para} id="para">{title}</p>
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
             <hr />
             <ul className="social">

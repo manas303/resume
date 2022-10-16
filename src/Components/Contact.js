@@ -76,6 +76,7 @@ class Contact extends Component {
 
 
             <aside className="four columns footer-widgets">
+               {/*
                <div className="widget widget_contact">
 
 					   <h4>Address and Phone</h4>
@@ -86,6 +87,11 @@ class Contact extends Component {
 						   <span>{phone}</span>
 					   </p>
 				   </div>
+               */}
+               <div className="widget widget_tweets">
+               <div className="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manas-srivastava-51912a1a" data-version="v1"><a className="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/manas-srivastava-51912a1a?trk=profile-badge"></a></div>
+               </div>
+              
                {/*
                <div className="widget widget_tweets">
                   <h4 className="widget-title">Latest Tweets</h4>
